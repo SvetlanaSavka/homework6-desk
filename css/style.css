@@ -1,4 +1,4 @@
-:root {
+/*:root {
   --main-title-color: #ffffff;
   --second-title-color: #2f303a;
   --first-text-color: #ffffff;
@@ -13,7 +13,7 @@
   --transition: 0.25s cubic-bezier(0.6, -0.28, 0.735, 0.045);
 }
 
-/* --------Сброс стилей */
+/* --------Сброс стилей 
 p,
 h1,
 h2,
@@ -44,7 +44,7 @@ img {
   box-sizing: inherit;
 }*/
 
-/* Доминантный на макете шрифт */
+/* Доминантный на макете шрифт 
 body {
   font-family: Roboto, sans-serif;
   background-color: var(--main-title-color);
@@ -978,6 +978,6 @@ letter-spacing: 0.03em;
   background-repeat: no-repeat;
   border: none;
 
-}
+}*/
 
 
